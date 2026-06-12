@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pattern Magic is funded by a Magic Grant from the David and Helen Gurley Brown Institute for Media Innovation, a collaboration between Columbia University and Stanford University.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We are working in collaboration with the Commercial Pattern Archive at the University of Rhode Island.
